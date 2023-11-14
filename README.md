@@ -12,7 +12,6 @@ HR系ベンチャー
 HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel)
 
 <br />
-<br />
 
 ### 株式会社CodeComplete(2023/7~)
 受託開発企業
