@@ -10,8 +10,6 @@ HR系ベンチャー
 
 #### 使用言語
 HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel)
-
-<br />
 <br />
 
 ### 株式会社CodeComplete(2023/7~)
@@ -24,6 +22,9 @@ HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel)
 
 #### 使用言語
 HTML/CSS, SCSS, tailwind, TypeScript(React.js), PHP(Laravel), Python
+
+<br />
+<br />
 
 ## 使用言語等
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta-2001&theme=algolia)
