@@ -8,8 +8,8 @@ HR系ベンチャー
 - ペットトリミング予約サービスのバックエンド開発
 - その他受託開発
 
-##### 使用言語
-HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel)
+##### 使用技術
+HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel), MySQL, Docker
 
 <br />
 
@@ -21,8 +21,8 @@ HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel)
 - 医療系スタートアップのアプリ開発
 - ETH取引のChatBot開発
 
-##### 使用言語
-HTML/CSS, SCSS, tailwind, TypeScript(React.js), PHP(Laravel), Python
+##### 使用技術
+HTML/CSS, SCSS, tailwind, TypeScript(React.js), PHP(Laravel), Python, MySQL, MongoDB, Docker
 
 <br />
 <br />
