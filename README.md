@@ -1,4 +1,3 @@
-## 経歴
 ### 株式会社EISHIN(2022/2~)
 HR系ベンチャー
 
@@ -18,8 +17,8 @@ HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel), MySQL, Docker
 ベトナム(ダナン)での海外インターンシップ
 
 ##### 内容
-- 医療系スタートアップのアプリ開発
-- ETH取引のChatBot開発
+- 医療系スタートアップのアプリケーション開発
+- 仮想通貨取引のTelegramBot開発
 
 ##### 使用技術
 HTML/CSS, SCSS, tailwind, TypeScript(React.js), PHP(Laravel), Python, MySQL, MongoDB, Docker
