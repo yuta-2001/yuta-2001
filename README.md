@@ -10,7 +10,6 @@ HR系ベンチャー
 ##### 使用技術
 HTML/CSS, SCSS, JavaScript, Jquery, PHP(Laravel), MySQL, Docker
 
-<br />
 
 ### 株式会社CodeComplete(2023/7~)
 受託開発企業
